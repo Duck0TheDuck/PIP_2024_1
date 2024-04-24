@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="Meme">
+    <file>Issac.jpg</file>
+    <file>Fi.png</file>
+    <file>uat-logo.jpg</file>
+    <file>Em.jpg</file>
+    <file>Xd.jpg</file>
+  </qresource>
+  <qresource prefix="Variedad">
+    <file>xd1.jpg</file>
+    <file>xd2.jpg</file>
+  </qresource>
+</RCC>
